@@ -6,5 +6,7 @@
 	<array>
 		<string>remote-notification</string>
 	</array>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Ứng dụng cần quyền truy cập micro để hỗ trợ tính năng nhập giọng nói.</string>
 </dict>
 </plist>
